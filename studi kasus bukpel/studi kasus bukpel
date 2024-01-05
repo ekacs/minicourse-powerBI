@@ -1,0 +1,22 @@
+skenario studi kasus
+
+Auditor diminta menemukenali lama pelayanan buku pelaut yang sebenarnya di KSOP X?
+
+Kondisi:
+Auditor melakukan observasi bagaimana proses bisnis pelayanan buku pelaut di KSOP, diketahui bahwa pelayanan buku pelaut sudah menggunakan aplikasi online dan aplikasi tersebut dibuat oleh Kantor Pusat Direktorat Teknis X
+
+
+Langkah kerja Auditor AA:
+
+1. Buat rumusan masalah => a) Berapa lama pelayanan buku pelaut di KSOP X sebenarnya?
+                          b) Siapakah atau apakah yang menjadi penyebab lama pelayanan?
+
+2. Dapatkan data => Karena aplikasi dibuat oleh Kantor Pusat dan setelah diklarifikasi servernya juga berada di kantor Pusat maka Auditor AA berkoordinasi/berkomunikasi dengan kantor pusat untuk meminta data log atau audit trail dari aplikasi pelayanan buku pelaut 
+
+3. Mengeksplorasi data ==> diketahui datanya (bertanya pada konsultan IT) kolom yang perlu concern adalah kolom send date, approve date
+
+4. Preparation ==> data dipastikan tidak ada yang error / duplikat / null dan fokus pada kolom yang dianalisa
+
+5 analyze ==> membuat kolom temuan
+
+6 presentasi ==>     

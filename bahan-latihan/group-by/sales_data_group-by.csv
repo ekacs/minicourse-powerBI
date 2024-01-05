@@ -1,0 +1,13 @@
+Year,Country,Product,Sales Channel,Units
+2020,USA,Shirt,Online,5000
+2020,USA,Shorts,Online,4000
+2020,USA,Shirt,Reseller,7500
+2020,USA,Shorts,Reseller,4500
+2020,Panama,Shirt,Online,55
+2020,Panama,Shorts,Online,70
+2020,Panama,Shirt,Reseller,200
+2020,Panama,Shorts,Reseller,150
+2020,Canada,Shirt,Online,1200
+2020,Canada,Shorts,Online,1450
+2020,Canada,Shirt,Reseller,700
+2020,Canada,Shorts,Reseller,800

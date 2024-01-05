@@ -1,0 +1,30 @@
+JENIS_PERMOHONAN
+BARU
+PENAMBAHAN DATA
+PENGGANTIAN
+PERPANJANGAN
+PERUBAHAN
+PERUBAHAN NAMA DAN ALAMAT
+SIJIL NAIK
+SIJIL TURUN
+
+COMPLETESTATUS
+Y
+N
+
+COMPLETEUSER
+NULL
+ilyaspratama
+opr_bitung4
+opr_bitung5
+opr_bitung99
+supervisor_bitung
+
+kriteria yg digunakan di IDEA:
+convert character to date: @CTOD
+lama waktu : @age
+filter:
+COMPLETESTATUS="Y" .AND. COMPLETEUSER="ilyaspratama" .AND. JENIS_PERMOHONAN="BARU" 
+
+
+
